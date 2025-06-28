@@ -6,7 +6,7 @@ I work in culture and tourism, although nothing here is related to my actual wor
 
 ### The few mandatory bullet points
 
-- 📚 in my academic career I've mostly studied literature and other arts (mostly music and cinema) from the Lusophone world and particularly from Brazil, focusing on art as a form of (political) resistance. Lately I've been mostly interest in... well, the same things but from a global perspective and focusing on feminist art.
+- 📚 in my academic career I've mostly studied literature and other arts (mostly music and cinema) from the Lusophone world and particularly from Brazil, focusing on art as a form of (political) resistance. Lately my main interest has been in... well, the same things but from a global perspective and focusing on feminist art.
 - 🌍 Natural languages: 🇮🇹 (native) - 🇺🇸/🇬🇧 - 🇵🇹/🇧🇷 (advanced) - 🇷🇺 - 🇩🇪 (intermediate-to-advanced) - 🇫🇷 - 🇸🇪 - 🇩🇰 (absolute beginner)
 - 😄 Pronouns: he/him
 - 🔧 Intermediate knowledge of HTML and CSS
