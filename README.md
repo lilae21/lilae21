@@ -2,7 +2,7 @@
 
 Hi everyone ☺️🥰 I'm a conlanger and conworlder from Italy interested in FOSS projects who likes the freedom of the independent web. I'm a Digital Humanities student and an enthusiast for linguistics, historical linguistics, literature from various eras, genres and cultural areas, an avid museum-goer especially in contemporary arts, and love so many music genres it'd be hard to list them all [without resorting to Last.fm](https://www.last.fm/user/aubky).
 
-I work in culture and tourism, although nothing here is related to my actual work or something I'm using for work *(... yet?)*
+I work in culture and tourism, although nothing here is related to my actual work or something I'm using for work *(... yet?)*. I also maintain a website and blog for a cultural festival and non-profit organization I'm part of, although that lives on WordPress and is not shown here.
 
 ### The few mandatory bullet points
 
